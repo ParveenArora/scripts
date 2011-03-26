@@ -1,4 +1,5 @@
 #!/bin/bash
+echo -e "Hello"; whoami
  
 echo -e "Hi, please type the word: \c "
 read  word
